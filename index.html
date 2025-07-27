@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Myflix Entertainment App</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  
+  <header>
+    <h1>Myflix</h1>
+  </header>
+  <nav>
+      <a href="index.html">Home</a>
+      <a href="movies.html">Movies</a>
+      <a href="tvshows.html">TV Shows</a>
+
+    </nav>
+
+  <main>
+    <section id="movies">
+      <h2>Movies</h2>
+      <div class="video-grid" id="movie-grid"></div>
+    </section>
+
+    <section id="tvshows">
+      <h2>Web Series / TV Shows</h2>
+      <div class="video-grid" id="tvshow-grid"></div>
+    </section>
+  </main>
+
+  <div id="video-modal" class="modal">
+    <div class="modal-content">
+      <span class="close-button" onclick="closeModal()">&times;</span>
+      <div id="video-container"></div>
+    </div>
+  </div>
+ 
+  <script src="script.js"></script>
+</body>
+</html>

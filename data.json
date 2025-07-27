@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "title": "Jawan",
+    "year": 2023,
+    "category": "Movie",
+    "rating": "PG-13",
+    "thumbnail": "jawan.jpg",
+    "video": "https://www.youtube.com/embed/COv52Qyctws",
+    "isTrending": true
+  },
+  {
+    "id": 2,
+    "title": "Baahubali 2: The Conclusion",
+    "year": 2017,
+    "category": "Movie",
+    "rating": "PG-13",
+    "thumbnail": "bahubali2.jpg",
+    "video": "https://www.youtube.com/embed/G62HrubdD6o",
+    "isTrending": true
+  },
+  {
+    "id": 3,
+    "title": "Money Heist",
+    "year": 2023,
+    "category": "Movie",
+    "rating": "PG-13",
+    "thumbnail": "money heist.jpg",
+    "video": "https://www.youtube.com/embed/_InqQJRqGW4",
+    "isTrending": true
+  },
+  {
+    "id": 4,
+    "title": "KGF Chapter 2",
+    "year": 2022,
+    "category": "Movie",
+    "rating": "PG-13",
+    "thumbnail": "kgf 2.jpg",
+    "video": "https://www.youtube.com/embed/JKa05nyUmuQ",
+    "isTrending": false
+  },
+  {
+    "id": 5,
+    "title": "The Family Man",
+    "year": 2021,
+    "category": "TV Show",
+    "rating": "PG-13",
+    "thumbnail": "the family man.jpg",
+    "video": "https://www.youtube.com/embed/XatRGut65VI",
+    "isTrending": true
+  },
+  {
+    "id": 6,
+    "title": "Mirzapur",
+    "year": 2020,
+    "category": "TV Show",
+    "rating": "PG-18",
+    "thumbnail": "mirzapur.jpg",
+    "video": "https://www.youtube.com/embed/ZNeGF-PvRHY",
+    "isTrending": false
+  }
+]
